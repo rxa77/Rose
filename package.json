@@ -1,13 +1,17 @@
 {
   "name": "rose",
   "version": "1.0.0",
-  "description": "",
+  "description": "Rose Discord Bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "discord",
+    "bot",
+    "rose"
+  ],
+  "author": "rxa77",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
